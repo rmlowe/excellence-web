@@ -1,1 +1,1 @@
-"C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\xsd.exe" /classes /namespace:NetDimensions.Apis.LearningPath "\\psf\Home\Documents\Visual Studio 2013\Projects\excellence\xsd\learningPath.xsd"
+"C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\xsd.exe" /classes /namespace:NetDimensions.Apis.LearningPath /outputdir:"\\psf\Home\Documents\Visual Studio 2013\Projects\excellence\xsd" "\\psf\Home\Documents\Visual Studio 2013\Projects\excellence\xsd\learningPath.xsd"
